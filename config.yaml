@@ -1,0 +1,7 @@
+agents:
+  product_details: true
+  product_reviews: true
+  orders: true
+
+database:
+  path: sleep_better.db
